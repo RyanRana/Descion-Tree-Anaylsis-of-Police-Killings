@@ -1,3 +1,3 @@
 # Descion-Trees-Anaylsis-of-Police-Killings
 
-Anaylsis and Descion Tree on Mapping Police Violence.
+Uses Descion trees to analyze and visulize govermental data of police killing in the United States and Chicago, Illionois.
